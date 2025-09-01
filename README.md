@@ -12,6 +12,6 @@ This project introduces a novel Natural Language Processing (NLP) approach to me
 Read the full paper here:
 
 ### Repository Structure
-- ``notebooks``: Mainly include codes for fine-tuning the large language models to create the inflation classifier on Google Colaboratory.
-- ``src``: Mainly include Python codes for data collection from the Reddit archive and statistical analysis.
-- ``data``
+- ``notebooks``: include codes for fine-tuning the large language models to create the inflation classifier on Google Colaboratory.
+- ``src``: include Python codes for data collection from the Reddit archive and statistical analysis to validate results.
+- ``data``: include training data and economic indicators' data to support results.
