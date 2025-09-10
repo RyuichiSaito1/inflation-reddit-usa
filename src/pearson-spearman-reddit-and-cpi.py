@@ -170,7 +170,7 @@ def create_visualization(df, correlations):
         # Plot sentiment scores
         line1 = ax1.plot(df['year_month'], df['sentiment_score'], 
                         color='#0072B2', linewidth=2.5, marker='s', markersize=3, 
-                        label='Reddit Inflation Score', alpha=0.8)
+                        label='Reddit Inflation Score (RIS)', alpha=0.8)
         
         # Plot CPI values
         line2 = ax1_twin.plot(df['year_month'], df['cpi_value'], 
