@@ -7,7 +7,7 @@ This project introduces a novel Natural Language Processing (NLP) approach to me
 ### Contributions:
 1.	We design CPI-component-aligned subreddit inputs and build observational and training datasets for category-level inflation signal extraction.
 2.	We show that fine-tuning lightweight LLMs with domain-adaptive data results in a robust inflation index that aligns closely with, and at times precedes, official economic statistics.
-3.	We provide a qualitative analysis of the thematic nar-ratives underlying public inflation sentiment, revealing specific concerns around food, cars, real estate, travel, and frugality that offer deep insights.
+3.	We provide a qualitative analysis of the thematic narratives underlying public inflation sentiment, revealing specific concerns around food, cars, real estate, travel, and frugality that offer deep insights.
 
 Read the full paper here:
 
