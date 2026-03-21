@@ -14,4 +14,4 @@ Read the full paper here:
 ### Repository Structure
 - ``notebooks``: include codes for fine-tuning the large language models to create the inflation classifier on Google Colaboratory.
 - ``src``: include Python codes for data collection from the Reddit archive and statistical analysis to validate results.
-- ``data``: include training data and economic indicators' data to support results.
+- ``data``: include metadata for collection datasets in which Reddit users' personal information was excluded.
