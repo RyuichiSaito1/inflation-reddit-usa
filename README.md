@@ -9,7 +9,7 @@ This project introduces a novel Natural Language Processing (NLP) approach to me
 2.	We show that fine-tuning lightweight LLMs with domain-adaptive data results in a robust inflation index that aligns closely with, and at times precedes, official economic statistics.
 3.	We provide a qualitative analysis of the thematic narratives underlying public inflation sentiment, revealing specific concerns around food, cars, real estate, travel, and frugality that offer deep insights.
 
-Read the full paper here:
+Read the full paper here: https://arxiv.org/abs/2603.21501
 
 ### Repository Structure
 - ``notebooks``: include codes for fine-tuning the large language models to create the inflation classifier on Google Colaboratory.
